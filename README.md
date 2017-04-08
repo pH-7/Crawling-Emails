@@ -22,4 +22,4 @@ You can by email at **me [[AT]] ph7 [[D0T]] me**
 
 ## License
 
-This script is released under MIT License. Enjoy :-)
+This script is released under [MIT License](https://opensource.org/licenses/mit-license.php). Enjoy :-)

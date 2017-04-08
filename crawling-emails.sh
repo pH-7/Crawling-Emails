@@ -5,7 +5,7 @@
 #
 # Author:          Pierre-Henry Soria <me@ph7.me>
 # Copyright:       (c) 2015-2017, Pierre-Henry Soria. All Rights Reserved.
-# License:         MIT License
+# License:         MIT License <https://opensource.org/licenses/mit-license.php>
 ##
 
 function crawling() {
