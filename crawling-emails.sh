@@ -15,8 +15,9 @@ function crawling() {
 
     if [ $url ]; then
         _getEmails $url
+        echo "The scrapped emails are stored in emails.txt file (if any were found)."
     else
-        echo "You didn't enter the URL"
+        echo "You didn't enter the URL."
         exit 1
     fi
 }
