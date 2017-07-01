@@ -3,7 +3,7 @@
 Very simple bash script to crawl email addresses from a specific website.
 
 
-## Disclamer
+## Disclaimer
 
 You CANNOT use it against any laws and TOS of the available online services.
 
